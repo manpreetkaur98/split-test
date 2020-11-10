@@ -29,7 +29,9 @@ app.all("/*", function(req, res) {
         req.session.nServer =  nServer;
     }
     let sProxyUrl =  (req.headers["x-forwarded-proto"] || "http") + "://" + req.get('host') + aUrls[nServer - 1];
-    apiProxy.web(req, res, {target:sProxyUrl});
+    apiProxy.web(req, res, {target:sProxyUrl}, (e)=>{
+        console.log(e.toString())
+    });
 });
 
 // Create http server that leverages reverse proxy instance
