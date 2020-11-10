@@ -1,8 +1,10 @@
 import http from 'http';
 import httpProxy from 'http-proxy';
 import express from "express";
+import path from 'path';
 let app = express();
 import session from 'express-session';
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 app.use(session({ secret: 'Secret5555', resave: false, saveUninitialized: true, }));
 // Define the port to run on

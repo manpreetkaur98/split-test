@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "A proxy that goes 2 ways",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "babel-node index.js --presets env,stage-2",
-    "dev": "babel-node index.js --presets env,stage-2"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
