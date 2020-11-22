@@ -6,7 +6,7 @@ const session =  require('express-session');
 
 app.use(session({ secret: 'Secret5555', resave: false, saveUninitialized: true, }));
 // Define the port to run on
-app.set('port', process.env.PORT || parseInt(process.argv.pop()) || 8080);
+app.set('port', process.env.PORT || parseInt(process.argv.pop()) || 8081);
 let apiProxy = httpProxy.createProxy({
     changeOrigin: true
 });
