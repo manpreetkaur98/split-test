@@ -126,7 +126,7 @@ var json = {
             questions: [
                 {
                     type: "radiogroup",
-                    name: "libertyordeath",
+                    name: "SonsofLiberty",
                     title: "Name the Founding Father who was the leader of the Sons of Liberty?",
                     choicesOrder: "random",
                     choices: [
