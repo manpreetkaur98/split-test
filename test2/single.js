@@ -15,10 +15,7 @@ var json = {
                     "1750-1800", "1800-1850", "1850-1900", "1900-1950", "after 1950"
                 ],
                 correctAnswer: "1850-1900"
-            }
-        ]
-    }, {
-        questions: [
+            },
             {
                 type: "radiogroup",
                 name: "libertyordeath",
@@ -28,10 +25,7 @@ var json = {
                     "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
                 ],
                 correctAnswer: "Patrick Henry"
-            }
-        ]
-    }, {
-        questions: [
+            },
             {
                 type: "radiogroup",
                 name: "magnacarta",
@@ -41,97 +35,76 @@ var json = {
                     "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
                 correctAnswer: "The foundation of the British parliamentary system"
-            }
-        ]
-    }, {
-        questions: [
+            },
             {
                 type: "radiogroup",
-                name: "divide",
-                title: "Through which national park does the Continental Divide not pass?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "Yosemite", "Glacier", "Yellow Stone", "Romy Mountain"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Yosemite"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "OlympicMountains",
-                title: "On what peninsula in Washington would you find the Olympic Mountains?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "Washington Peninsula", "Seattle Peninsula", "Puget Peninsula", "Olympic Peninsula"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Olympic Peninsula"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "television",
-                title: "Which U.S. president was the first to appear on television?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "Abraham Lincoln", "Ronald Reagan", "Richard Nixon", "Franklin D. Roosevelt"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Franklin D. Roosevelt"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "Pilgrims",
-                title: "What is the name of the ship that brought the Pilgrims to America?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "Discovery", "Mayflower", "Speedwell", "Godspeed"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Mayflower"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "AmericanRevolution",
-                title: "What battle is considered the turning point of the American Revolution?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "Battle of Fort Sumter", "Battle of Saratoga", "Battle of Gettysburg", "Battle of Trenton"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Battle of Saratoga"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "BostonMassacre",
-                title: "What year was the Boston Massacre?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "1770 ", " 1772", " 1774", " 1776"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "1770"
-            }
-        ]
-    }, {
-        questions: [
+                correctAnswer: "The foundation of the British parliamentary system"
+            },
             {
                 type: "radiogroup",
-                name: "SonsofLiberty",
-                title: "Name the Founding Father who was the leader of the Sons of Liberty?",
+                name: "magnacarta",
+                title: "What is the Magna Carta?",
                 choicesOrder: "random",
                 choices: [
-                    "John Adams", "Patrick Henry", "Samuel Adams", "John Jay"
+                    "The foundation of the British parliamentary system", "The Great Seal of the monarchs of England", "The French Declaration of the Rights of Man", "The charter signed by the Pilgrims on the Mayflower"
                 ],
-                correctAnswer: "Samuel Adams"
+                correctAnswer: "The foundation of the British parliamentary system"
             }
         ]
     }],
