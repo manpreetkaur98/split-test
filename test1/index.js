@@ -44,6 +44,97 @@ var json = {
                     correctAnswer: "The foundation of the British parliamentary system"
                 }
             ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "divide",
+                    title: "Through which national park does the Continental Divide not pass?",
+                    choicesOrder: "random",
+                    choices: [
+                        "Yosemite", "Glacier", "Yellow Stone", "Romy Mountain"
+                    ],
+                    correctAnswer: "Yosemite"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
+        }, {
+            questions: [
+                {
+                    type: "radiogroup",
+                    name: "libertyordeath",
+                    title: "Who said 'Give me liberty or give me death?'",
+                    choicesOrder: "random",
+                    choices: [
+                        "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+                    ],
+                    correctAnswer: "Patrick Henry"
+                }
+            ]
         }
     ],
     completedHtml: "<h4>You have answered correctly <b>{correctedAnswers}</b> questions from <b>{questionCount}</b>.</h4>"
